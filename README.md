@@ -5,19 +5,19 @@
 Tugas Minggu 8 : Tugas Praktikum Room Database
 
 Tampilan Awal
-![Screenshot room](images/1.png)
+![Screenshot room](img/1.png)
 
 Tampilan Tambah Data 
-![Screenshot room](images/2.png)
+![Screenshot room](img/2.png)
 
 Berhasil Tambah Data
-![Screenshot room](images/3.png)
+![Screenshot room](img/3.png)
 
 Swipe Kanan/Kiri Untuk Menghapus Data
-![Screenshot room](images/4.png)
+![Screenshot room](img/4.png)
 
 Menghapus Semua Data Sekaligus
-![Screenshot room](images/5.png)
+![Screenshot room](img/5.png)
 
 Data Berhasil Dihapus
-![Screenshot room](images/6.png)
+![Screenshot room](img/6.png)
